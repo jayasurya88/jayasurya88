@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayasurya</h1>
 <h3 align="center">I'm a passionate developer currently pursuing my Master of Computer Applications (MCA). I have a strong interest in cloud technologies and love building web applications using Django, Python, and React JS.</h3>
 
-- 🔭 I’m currently wCurrently working on a Social Media Platform using Django.orking on **SocialCore**
+- 🔭 I’m currently wCurrently working on a Social Media Platform  and code competetion platform **SocialCore**
 
 - 🤝 I’ve developed e-commerce sites, blogs, and worked on various full-stack projects. [https://jayasurya88.pythonanywhere.com/](https://jayasurya88.pythonanywhere.com/)
 
