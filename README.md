@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header-image.png" alt="GitHub Banner" />
+  <img src="./github-header-image (1).png" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jayasurya Sudhakaran</h1>
