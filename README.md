@@ -1,16 +1,85 @@
-<h1 align="center">Hi 👋, I'm Jayasurya</h1>
-<h3 align="center">I'm a passionate developer currently pursuing my Master of Computer Applications (MCA). I have a strong interest in cloud technologies and love building web applications using Django, Python, and React JS.</h3>
-
-- 🔭 I’m currently wCurrently working on a Social Media Platform  and code competetion platform **SocialCore**
-
-- 🤝 I’ve developed e-commerce sites, blogs, and worked on various full-stack projects. [https://jayasurya88.pythonanywhere.com/](https://jayasurya88.pythonanywhere.com/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayasurya sudhakaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayasurya sudhakaran" height="30" width="40" /></a>
-<a href="https://instagram.com/jayasurya_88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayasurya_88" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jayasurya7879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayasurya7879" height="30" width="40" /></a>
+<p align="center">
+  <img src="./github-header-image.png" alt="GitHub Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Jayasurya Sudhakaran</h1>
+<h3 align="center">🚀 DevOps Enthusiast • Full-Stack Developer • Cloud Practitioner • MCA Student</h3>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayasuryasudhakaran/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/jayasurya_88" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/jayasurya7879" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔗 [Freelenso – Freelance Services Platform](https://github.com/jayasurya88/freelenso)
+- 🔗 [SocialCore – Social Media Platform](https://github.com/jayasurya88/socialcore)
+- 🔗 [CodeArena – Coding Challenge Platform](https://github.com/jayasurya88/codearena)
+
+---
+
+### 🛠️ Skills & Tools
+
+#### 💻 Programming Languages  
+`Python` · `Java` · `HTML` · `CSS` · `JavaScript`
+
+#### 🧰 Frameworks & Libraries  
+`Django` · `Bootstrap` · `React`
+
+#### ⚙️ DevOps & Infrastructure  
+`Docker` · `Kubernetes` · `Jenkins` · `CI/CD Pipelines` · `Git`
+
+#### ☁️ Cloud & Platforms  
+`AWS EC2` · `Linux` · `PostgreSQL`
+
+---
+
+### 📜 Certifications
+
+- 🐧 **Red Hat System Administration I (RH124)** – *Red Hat Academy*, 2024  
+- ☸️ **Scalable Web Apps on Kubernetes** – *IBM Developer Skills Network*, 2025  
+- 🐳 **Docker for Absolute Beginners** – *KodeKloud*, 2025  
+- 📊 **Machine Learning with Python** – *IBM*  
+- 🔧 **Technical Support Fundamentals** – *Google / Coursera*
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayasurya88&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasurya88&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasurya88&layout=compact&theme=tokyonight" alt="Languages" />
+</p>
+
+---
+
+### 🎯 Quote of the Day
+
+> _"Code. Break. Fix. Repeat. That’s how mastery is built."_
+
+_— Jayasurya Sudhakaran_
+
+---
+
+### 🙌 Thanks for Visiting!
+
+I'm always looking to collaborate on exciting tech, cloud, and DevOps projects.  
+Feel free to connect, fork my projects, and star what you like! 🌟
+
+---
