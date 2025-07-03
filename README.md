@@ -16,18 +16,16 @@
   <a href="https://instagram.com/jayasurya_88" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/jayasurya7879" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+  
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔗 [Freelenso – Freelance Services Platform](https://github.com/jayasurya88/freelenso)
-- 🔗 [SocialCore – Social Media Platform](https://github.com/jayasurya88/socialcore)
-- 🔗 [CodeArena – Coding Challenge Platform](https://github.com/jayasurya88/codearena)
+- 🔗 [Freelenso – Freelance Services Platform]([https://github.com/jayasurya88/freelenso](https://github.com/jayasurya88/Freelenso-Microservices-DevOps-.git))
+- 🔗 [SocialCore – Social Media Platform]([https://github.com/jayasurya88/socialcore](https://github.com/jayasurya88/Socialmedia-platform---Socialcore.git))
+- 🔗 [CodeArena – Coding Challenge Platform]([https://github.com/jayasurya88/codearena](https://github.com/jayasurya88/devbit--code-challange-platform.git))
 
 ---
 
